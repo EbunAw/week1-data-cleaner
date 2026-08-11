@@ -1,26 +1,21 @@
-Week 1 Data Cleaning Utility
+ Week 1 Data Cleaning Utility
 
 A small typed Python utility module for cleaning basic user data.
 
-Features
+ Features
 
 - Cleans names by removing unnecessary whitespace.
 - Normalizes email addresses by removing extra spaces and converting them to lowercase.
 - Removes empty names from a list.
 
-Requirements
+ Requirements
 
 - Python 3.11+
 - pytest
 
-Installation
+ Installation
 
 Create a virtual environment:
 
 ```bash
 python -m venv .venv
-
-Activate the virtual environment on Windows:
-
-```bash
-.venv\Scripts\activate
