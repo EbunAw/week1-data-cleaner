@@ -7,11 +7,13 @@ A small typed Python utility module for cleaning basic user data.
 - Cleans names by removing unnecessary whitespace.
 - Normalizes email addresses by removing extra spaces and converting them to lowercase.
 - Removes empty names from a list.
+- add 
 
  Requirements
 
 - Python 3.11+
 - pytest
+- 
 
  Installation
 
